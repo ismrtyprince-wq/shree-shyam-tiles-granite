@@ -1,0 +1,15 @@
+name: shree_shyam_tiles_granite
+version: 1.0.0+1
+description: Shree Shyam Tiles & Granite - inventory and price management app.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.2
+
+flutter:
+  uses-material-design: true
